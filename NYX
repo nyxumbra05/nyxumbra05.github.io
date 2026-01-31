@@ -2,10 +2,21 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Benim İlk Sitem</title>
+  <title>Site Çalışıyor</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #111;
+      color: #0f0;
+      text-align: center;
+      margin-top: 100px;
+    }
+  </style>
 </head>
 <body>
-  <h1>Merhaba 🌍</h1>
-  <p>Bu site GitHub Pages ile yayında.</p>
+
+  <h1>🎉 SİTE AKTİF</h1>
+  <p>GitHub Pages başarıyla çalışıyor.</p>
+
 </body>
 </html>
